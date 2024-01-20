@@ -2,10 +2,10 @@
 ## Hi there 👋
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api?username=selemerico" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=selemerico" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=selemerico&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=selemerico&layout=compact&langs_count=8&card_width=320" />
 </a>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
